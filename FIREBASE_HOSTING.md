@@ -1,5 +1,6 @@
 To initialize and make your first deployment 
 of Firebase Hosting, simply run this command and follow instructions.
+
 `bash ~/SeaShell/init_firebase_hosting.sh`
 
 It guides you through the following steps:

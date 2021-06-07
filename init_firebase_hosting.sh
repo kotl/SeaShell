@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Copyright 2021 Google LLC
 #
 # A simple script to initialize and make first deployment 
